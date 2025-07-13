@@ -11,4 +11,4 @@ Fully responsive and mobile-friendly
 
 Clean, modern UI with Tailwind CSS
 
-Smooth internal page transitions
+Smooth internal page transitions.
